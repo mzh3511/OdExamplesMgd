@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdReadExMgd", "OdReadExMgd\OdReadExMgd.csproj", "{8E44BC40-F332-4047-B546-742BEB988AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdWriteExMgd", "OdWriteExMgd\OdWriteExMgd.csproj", "{AFA21C5C-2343-415A-ADE5-289656FEF3E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdViewExMgd", "OdViewExMgd\OdViewExMgd.csproj", "{F9826829-79B4-46B3-8B45-85BF2E9E4293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		vc8dll|Any CPU = vc8dll|Any CPU
+		vc8dlldbg|Any CPU = vc8dlldbg|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E44BC40-F332-4047-B546-742BEB988AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E44BC40-F332-4047-B546-742BEB988AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E44BC40-F332-4047-B546-742BEB988AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E44BC40-F332-4047-B546-742BEB988AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E44BC40-F332-4047-B546-742BEB988AC8}.vc8dll|Any CPU.ActiveCfg = Release|Any CPU
+		{8E44BC40-F332-4047-B546-742BEB988AC8}.vc8dll|Any CPU.Build.0 = Release|Any CPU
+		{8E44BC40-F332-4047-B546-742BEB988AC8}.vc8dlldbg|Any CPU.ActiveCfg = Release|Any CPU
+		{8E44BC40-F332-4047-B546-742BEB988AC8}.vc8dlldbg|Any CPU.Build.0 = Release|Any CPU
+		{AFA21C5C-2343-415A-ADE5-289656FEF3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA21C5C-2343-415A-ADE5-289656FEF3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA21C5C-2343-415A-ADE5-289656FEF3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA21C5C-2343-415A-ADE5-289656FEF3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA21C5C-2343-415A-ADE5-289656FEF3E2}.vc8dll|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA21C5C-2343-415A-ADE5-289656FEF3E2}.vc8dll|Any CPU.Build.0 = Release|Any CPU
+		{AFA21C5C-2343-415A-ADE5-289656FEF3E2}.vc8dlldbg|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA21C5C-2343-415A-ADE5-289656FEF3E2}.vc8dlldbg|Any CPU.Build.0 = Release|Any CPU
+		{F9826829-79B4-46B3-8B45-85BF2E9E4293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9826829-79B4-46B3-8B45-85BF2E9E4293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9826829-79B4-46B3-8B45-85BF2E9E4293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9826829-79B4-46B3-8B45-85BF2E9E4293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9826829-79B4-46B3-8B45-85BF2E9E4293}.vc8dll|Any CPU.ActiveCfg = Release|Any CPU
+		{F9826829-79B4-46B3-8B45-85BF2E9E4293}.vc8dll|Any CPU.Build.0 = Release|Any CPU
+		{F9826829-79B4-46B3-8B45-85BF2E9E4293}.vc8dlldbg|Any CPU.ActiveCfg = Release|Any CPU
+		{F9826829-79B4-46B3-8B45-85BF2E9E4293}.vc8dlldbg|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
